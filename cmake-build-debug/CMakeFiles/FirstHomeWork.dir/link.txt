@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/FirstHomeWork.dir/main.c.o CMakeFiles/FirstHomeWork.dir/container.c.o CMakeFiles/FirstHomeWork.dir/sphere.c.o CMakeFiles/FirstHomeWork.dir/figure.c.o CMakeFiles/FirstHomeWork.dir/random.c.o CMakeFiles/FirstHomeWork.dir/parallelepiped.c.o CMakeFiles/FirstHomeWork.dir/tetrahedron.c.o -o FirstHomeWork 
